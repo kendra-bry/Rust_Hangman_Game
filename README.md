@@ -1,10 +1,8 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software is a command-line Hangman game written in the Rust programming language. Hangman is a classic word-guessing game where players try to guess a secret word letter by letter before running out of attempts.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
-
-{Describe your purpose for writing this software.}
+I built this project to gain more familiarity and experience with the Rust programming language.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,21 +10,18 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+This project was developed using VS Code with the Rust Analyzer extension.
 
-{Describe the programming language that you used and any libraries.}
+This project is written using Rust.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+- [TutorialsPoint Rust Tutorial](https://www.tutorialspoint.com/rust/index.htm)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add a Play Again option
+- Add ability to choose a difficulty level
+- Add a timer to limit the time the player has to make each guess
