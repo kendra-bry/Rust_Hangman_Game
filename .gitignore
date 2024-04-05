@@ -1,0 +1,26 @@
+# Ignore target directory
+/target/
+
+# Ignore Cargo generated files
+Cargo.lock
+Cargo.toml.orig
+.cargo/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.rs.bk
+
+# Ignore build output files
+*.exe
+*.o
+*.rlib
+*.so
+*.dll
+*.dylib
+*.rls
+*.rls-analysis
+*.rmeta
+
+# Ignore dependency directories
+/target/
