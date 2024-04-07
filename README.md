@@ -6,6 +6,8 @@ I built this project to gain more familiarity and experience with the Rust progr
 
 [Software Demo Video](https://www.youtube.com/watch?v=-ipUey_M4y0)
 
+(I feel the need to explain my hesitation on the word vector in the video. I'm just used to using arrays and lists in other languages, so vectors were a totally new thing to me.)
+
 # Development Environment
 
 This project was developed using VS Code with the Rust Analyzer extension.
