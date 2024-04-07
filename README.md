@@ -4,9 +4,7 @@ This software is a command-line Hangman game written in the Rust programming lan
 
 I built this project to gain more familiarity and experience with the Rust programming language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=-ipUey_M4y0)
 
 # Development Environment
 
